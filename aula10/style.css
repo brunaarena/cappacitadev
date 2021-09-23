@@ -1,0 +1,14 @@
+h2{
+    background-color: rgba(183, 41, 219, 0.137);
+    color: rgb(255, 255, 255)
+}
+
+body{
+    background-color: rgba(63, 178, 194, 0.281);
+}
+
+div{
+    background-color: rgb(104, 207, 101);
+    width: 50px;
+    margin: auto;
+}
